@@ -1,0 +1,13 @@
+C:\Users\VARUN KUMAR\source\repos\fellowship 13016218\fellow-ship-13016218\EmpWage_uc5\EmpWage_uc5\bin\Debug\netcoreapp3.1\EmpWage_uc5.exe
+C:\Users\VARUN KUMAR\source\repos\fellowship 13016218\fellow-ship-13016218\EmpWage_uc5\EmpWage_uc5\bin\Debug\netcoreapp3.1\EmpWage_uc5.deps.json
+C:\Users\VARUN KUMAR\source\repos\fellowship 13016218\fellow-ship-13016218\EmpWage_uc5\EmpWage_uc5\bin\Debug\netcoreapp3.1\EmpWage_uc5.runtimeconfig.json
+C:\Users\VARUN KUMAR\source\repos\fellowship 13016218\fellow-ship-13016218\EmpWage_uc5\EmpWage_uc5\bin\Debug\netcoreapp3.1\EmpWage_uc5.runtimeconfig.dev.json
+C:\Users\VARUN KUMAR\source\repos\fellowship 13016218\fellow-ship-13016218\EmpWage_uc5\EmpWage_uc5\bin\Debug\netcoreapp3.1\EmpWage_uc5.dll
+C:\Users\VARUN KUMAR\source\repos\fellowship 13016218\fellow-ship-13016218\EmpWage_uc5\EmpWage_uc5\bin\Debug\netcoreapp3.1\EmpWage_uc5.pdb
+C:\Users\VARUN KUMAR\source\repos\fellowship 13016218\fellow-ship-13016218\EmpWage_uc5\EmpWage_uc5\obj\Debug\netcoreapp3.1\EmpWage_uc5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VARUN KUMAR\source\repos\fellowship 13016218\fellow-ship-13016218\EmpWage_uc5\EmpWage_uc5\obj\Debug\netcoreapp3.1\EmpWage_uc5.AssemblyInfoInputs.cache
+C:\Users\VARUN KUMAR\source\repos\fellowship 13016218\fellow-ship-13016218\EmpWage_uc5\EmpWage_uc5\obj\Debug\netcoreapp3.1\EmpWage_uc5.AssemblyInfo.cs
+C:\Users\VARUN KUMAR\source\repos\fellowship 13016218\fellow-ship-13016218\EmpWage_uc5\EmpWage_uc5\obj\Debug\netcoreapp3.1\EmpWage_uc5.csproj.CoreCompileInputs.cache
+C:\Users\VARUN KUMAR\source\repos\fellowship 13016218\fellow-ship-13016218\EmpWage_uc5\EmpWage_uc5\obj\Debug\netcoreapp3.1\EmpWage_uc5.dll
+C:\Users\VARUN KUMAR\source\repos\fellowship 13016218\fellow-ship-13016218\EmpWage_uc5\EmpWage_uc5\obj\Debug\netcoreapp3.1\EmpWage_uc5.pdb
+C:\Users\VARUN KUMAR\source\repos\fellowship 13016218\fellow-ship-13016218\EmpWage_uc5\EmpWage_uc5\obj\Debug\netcoreapp3.1\EmpWage_uc5.genruntimeconfig.cache
