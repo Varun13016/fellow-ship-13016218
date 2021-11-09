@@ -1,0 +1,14 @@
+C:\Users\VARUN KUMAR\source\repos\fellowship 13016218\fellow-ship-13016218\uc9\uc9\obj\Debug\netcoreapp3.1\uc9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VARUN KUMAR\source\repos\fellowship 13016218\fellow-ship-13016218\uc9\uc9\obj\Debug\netcoreapp3.1\uc9.AssemblyInfoInputs.cache
+C:\Users\VARUN KUMAR\source\repos\fellowship 13016218\fellow-ship-13016218\uc9\uc9\obj\Debug\netcoreapp3.1\uc9.AssemblyInfo.cs
+C:\Users\VARUN KUMAR\source\repos\fellowship 13016218\fellow-ship-13016218\uc9\uc9\obj\Debug\netcoreapp3.1\uc9.csproj.CoreCompileInputs.cache
+C:\Users\VARUN KUMAR\source\repos\fellowship 13016218\fellow-ship-13016218\uc9\uc9\obj\Debug\netcoreapp3.1\uc9.csproj.AssemblyReference.cache
+C:\Users\VARUN KUMAR\source\repos\fellowship 13016218\fellow-ship-13016218\uc9\uc9\bin\Debug\netcoreapp3.1\uc9.exe
+C:\Users\VARUN KUMAR\source\repos\fellowship 13016218\fellow-ship-13016218\uc9\uc9\bin\Debug\netcoreapp3.1\uc9.deps.json
+C:\Users\VARUN KUMAR\source\repos\fellowship 13016218\fellow-ship-13016218\uc9\uc9\bin\Debug\netcoreapp3.1\uc9.runtimeconfig.json
+C:\Users\VARUN KUMAR\source\repos\fellowship 13016218\fellow-ship-13016218\uc9\uc9\bin\Debug\netcoreapp3.1\uc9.runtimeconfig.dev.json
+C:\Users\VARUN KUMAR\source\repos\fellowship 13016218\fellow-ship-13016218\uc9\uc9\bin\Debug\netcoreapp3.1\uc9.dll
+C:\Users\VARUN KUMAR\source\repos\fellowship 13016218\fellow-ship-13016218\uc9\uc9\bin\Debug\netcoreapp3.1\uc9.pdb
+C:\Users\VARUN KUMAR\source\repos\fellowship 13016218\fellow-ship-13016218\uc9\uc9\obj\Debug\netcoreapp3.1\uc9.dll
+C:\Users\VARUN KUMAR\source\repos\fellowship 13016218\fellow-ship-13016218\uc9\uc9\obj\Debug\netcoreapp3.1\uc9.pdb
+C:\Users\VARUN KUMAR\source\repos\fellowship 13016218\fellow-ship-13016218\uc9\uc9\obj\Debug\netcoreapp3.1\uc9.genruntimeconfig.cache

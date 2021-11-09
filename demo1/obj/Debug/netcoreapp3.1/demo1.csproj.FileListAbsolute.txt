@@ -1,0 +1,14 @@
+C:\Users\VARUN KUMAR\source\repos\fellowship 13016218\fellow-ship-13016218\demo1\bin\Debug\netcoreapp3.1\demo1.exe
+C:\Users\VARUN KUMAR\source\repos\fellowship 13016218\fellow-ship-13016218\demo1\bin\Debug\netcoreapp3.1\demo1.deps.json
+C:\Users\VARUN KUMAR\source\repos\fellowship 13016218\fellow-ship-13016218\demo1\bin\Debug\netcoreapp3.1\demo1.runtimeconfig.json
+C:\Users\VARUN KUMAR\source\repos\fellowship 13016218\fellow-ship-13016218\demo1\bin\Debug\netcoreapp3.1\demo1.runtimeconfig.dev.json
+C:\Users\VARUN KUMAR\source\repos\fellowship 13016218\fellow-ship-13016218\demo1\bin\Debug\netcoreapp3.1\demo1.dll
+C:\Users\VARUN KUMAR\source\repos\fellowship 13016218\fellow-ship-13016218\demo1\bin\Debug\netcoreapp3.1\demo1.pdb
+C:\Users\VARUN KUMAR\source\repos\fellowship 13016218\fellow-ship-13016218\demo1\obj\Debug\netcoreapp3.1\demo1.csproj.AssemblyReference.cache
+C:\Users\VARUN KUMAR\source\repos\fellowship 13016218\fellow-ship-13016218\demo1\obj\Debug\netcoreapp3.1\demo1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VARUN KUMAR\source\repos\fellowship 13016218\fellow-ship-13016218\demo1\obj\Debug\netcoreapp3.1\demo1.AssemblyInfoInputs.cache
+C:\Users\VARUN KUMAR\source\repos\fellowship 13016218\fellow-ship-13016218\demo1\obj\Debug\netcoreapp3.1\demo1.AssemblyInfo.cs
+C:\Users\VARUN KUMAR\source\repos\fellowship 13016218\fellow-ship-13016218\demo1\obj\Debug\netcoreapp3.1\demo1.csproj.CoreCompileInputs.cache
+C:\Users\VARUN KUMAR\source\repos\fellowship 13016218\fellow-ship-13016218\demo1\obj\Debug\netcoreapp3.1\demo1.dll
+C:\Users\VARUN KUMAR\source\repos\fellowship 13016218\fellow-ship-13016218\demo1\obj\Debug\netcoreapp3.1\demo1.pdb
+C:\Users\VARUN KUMAR\source\repos\fellowship 13016218\fellow-ship-13016218\demo1\obj\Debug\netcoreapp3.1\demo1.genruntimeconfig.cache
